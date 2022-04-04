@@ -1,2 +1,25 @@
-# pertemuan_2
-tugas pertemuan ke 2
+<HTML>
+
+<HEAD>
+
+<TITLE> definition list </TITLE>
+
+</HEAD>
+
+<BODY>
+
+<DL>
+
+<DT>Coffee</DT>
+
+<DD>Black hot drink</DD>
+
+<DT>Ice Cream</DT>
+
+<DD>sweet Cold drink</DD>
+
+</DL>
+
+</BODY>
+
+</HTML>
